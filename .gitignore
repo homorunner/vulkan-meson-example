@@ -1,0 +1,11 @@
+# vscode files
+.vscode/
+*.code-workspace
+
+# meson build files
+build/
+subprojects/*
+!subprojects/*.wrap
+
+# runtime files
+imgui.ini
