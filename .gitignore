@@ -6,6 +6,7 @@
 build/
 subprojects/*
 !subprojects/*.wrap
+shaders/*.spv
 
 # runtime files
 imgui.ini
