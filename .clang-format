@@ -1,0 +1,18 @@
+BasedOnStyle: LLVM
+
+ColumnLimit: 100
+
+IndentWidth: 4
+
+IndentRequires: true
+
+AccessModifierOffset: -4
+
+PointerAlignment: Left
+
+AllowShortFunctionsOnASingleLine: Inline
+
+EmptyLineBeforeAccessModifier: Always
+
+AllowShortEnumsOnASingleLine: true
+
