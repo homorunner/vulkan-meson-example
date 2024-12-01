@@ -44,8 +44,9 @@ Before you begin, ensure you have met the following requirements:
 ## Project Structure
 
 - `src/`: Contains the source code files.
-- `meson.build`: The root Meson build script.
+- `meson.build`: The root Meson build file.
 - `shaders/`: Store vulkan shader files here.
+- `scripts/`: Example build scripts.
 
 ## Configuration and Build Options
 
